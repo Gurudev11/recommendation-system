@@ -15,7 +15,7 @@
 
 ## Overview
 
-This project is a recommendation system that provides personalized course recommendations for users based on their preferences and behavior. It uses [briefly explain the recommendation algorithm or method you're using, e.g., collaborative filtering, content-based filtering, etc.].
+This project is a recommendation system that provides personalized course recommendations for users based on their preferences and behavior.
 
 ## Features
 
@@ -50,7 +50,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 ## Contact
-[Your Name]
+[Sivaguru]
 Email: [gurudevz237@gmail.com]
-LinkedIn: [linkedin.com/in/guru-z11]
-GitHub: [github.com/Gurudev11]
+LinkedIn: [www.linkedin.com/in/guru-z11]
+GitHub: [https://github.com/Gurudev11]
