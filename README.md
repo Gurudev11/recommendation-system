@@ -51,6 +51,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 [Sivaguru]
-Email: [gurudevz237@gmail.com]
-LinkedIn: [www.linkedin.com/in/guru-z11]
+Email: [dev.sivaguru@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/sivagurudev]
 GitHub: [https://github.com/Gurudev11]
